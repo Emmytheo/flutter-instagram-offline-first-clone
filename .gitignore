@@ -145,3 +145,8 @@ app.*.map.json
 !.idea/codeStyles/
 !.idea/dictionaries/
 !.idea/runConfigurations/
+
+
+.env.dev
+.env.prod
+env.g.dart
